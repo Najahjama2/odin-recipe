@@ -1,2 +1,2 @@
 # odin-recipe
-The purpose of this project is to demonstarte what I have learnt so far regarding HTML basics
+The purpose of this project is to demonstrate what I have learnt so far regarding HTML basics
